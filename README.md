@@ -1,5 +1,5 @@
 # sudokoSolver
-# The way of filling this project is mentioned in the program itself for exaple you can provide the question as:
+The way of filling this project is mentioned in the program itself for example you can provide the question as:  
 8 . . . . . . . .  
 . . 3 6 . . . . .  
 . 7 . . 9 . 2 . .  
