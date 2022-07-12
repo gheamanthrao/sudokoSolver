@@ -8,4 +8,6 @@ The way of filling this project is mentioned in the program itself for example y
 . . . 1 . . . 3 .  
 . . 1 . . . . 6 8  
 . . 8 5 . . . 1 .  
-. 9 . . . . 4 . .  
+. 9 . . . . 4 . .    
+This function runs on normal console, just need to run that cpp file and enter the sudoko puzzle as mentioned.
+
